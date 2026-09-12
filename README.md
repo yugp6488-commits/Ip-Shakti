@@ -1,4 +1,4 @@
-# IP-SAKTI Sahayak
+# IP-SAKTI Sahayak By RagRebels
 
 **The zero-hallucination regulatory GPS for Ayurvedic & Traditional Knowledge innovation.**
 
